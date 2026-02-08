@@ -12,6 +12,9 @@ __pycache__/
 ollama/
 phase1/
 
+# vector database
+chroma_langchain_db/
+
 # Distribution / packaging
 .Python
 build/
